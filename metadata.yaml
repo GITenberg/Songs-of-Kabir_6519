@@ -1,0 +1,31 @@
+_repo: Songs-of-Kabir_6519
+contributor:
+  translator:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+creator:
+  author:
+    agent_name: Kabir
+    birthdate: 1440
+    deathdate: 1518
+    gutenberg_agent_id: '25970'
+    url: http://www.gutenberg.org/2009/agents/25970
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indic poetry -- Translations into English'
+- !lcsh 'Hindi poetry -- Translations into English'
+- !lcc 'PK'
+title: Songs of Kabir
+url: http://www.gutenberg.org/ebooks/6519
