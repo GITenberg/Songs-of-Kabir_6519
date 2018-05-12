@@ -1,4 +1,5 @@
 _repo: Songs-of-Kabir_6519
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Tagore, Rabindranath
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '942'
     url: http://www.gutenberg.org/2009/agents/942
     wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kabir
@@ -15,6 +19,8 @@ creator:
     gutenberg_agent_id: '25970'
     url: http://www.gutenberg.org/2009/agents/25970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6519#Songs-of-Kabir
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
